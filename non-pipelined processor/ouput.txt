@@ -1,0 +1,41 @@
+Loaded 154 instructions
+Program requested exit
+
+Total clock cycles: 144000
+Total instructions in file: 154
+Instructions executed: 28800
+Unique PCs executed: 154
+
+MATRIX1 (0x10010008):
+0 1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0
+0 1 0 1 0 1 0 1
+1 0 1 0 1 0 1 0
+
+MATRIX2 (0x10010108):
+0 1 1 1 1 1 1 0
+1 0 0 0 0 0 0 1
+1 0 0 0 0 0 0 1
+1 0 0 0 0 0 0 1
+1 0 0 0 0 0 0 1
+1 0 0 0 0 0 0 1
+1 0 0 0 0 0 0 1
+0 1 1 1 1 1 1 0
+
+MATRIX3 (0x10010208):
+0 1 1 1 1 1 1 0
+1 0 1 1 1 1 0 1
+1 1 0 0 0 0 1 1
+1 1 0 0 0 0 1 1
+1 1 0 0 0 0 1 1
+1 1 0 0 0 0 1 1
+1 0 1 1 1 1 0 1
+0 1 1 1 1 1 1 0
+
+R instructions => 12683
+I instructions => 14614
+J instructions => 1503
